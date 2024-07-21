@@ -1,1 +1,1 @@
-# wise-attention-for-covid-detection
+# feature-wise-attention-for-covid-detection
